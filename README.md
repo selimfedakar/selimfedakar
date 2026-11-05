@@ -8,11 +8,11 @@
 
 LLMs and ML systems from scratch, measured rather than assumed.
 
-- [**handmade-llm**](https://github.com/selimfedakar/handmade-llm): a language model built and trained end to end in plain Python, no frameworks
-- [**scratchbench**](https://github.com/selimfedakar/scratchbench): from-scratch neural nets, benchmarked on real hardware
 - co-founder of [**EXCAR**](https://excar.ai), an in-car voice AI running on real devices
+- [**scratchbench**](https://github.com/selimfedakar/scratchbench): from-scratch neural nets, benchmarked on real hardware
+- [**handmade-llm**](https://github.com/selimfedakar/handmade-llm): a language model built and trained end to end in plain Python, no frameworks
 - upstream fixes across the ML open-source ecosystem, every bug proven with a reproducible test
 
-I care about arithmetic intensity, memory bandwidth, and why the profiler disagrees with the paper.
+I care about high-performance computing: arithmetic intensity, memory bandwidth, and why the profiler disagrees with the paper.
 
-📍 Los Angeles · a.selimfedakar@gmail.com
+📍 Los Angeles · a.selimfedakar@gmail.com · [selimfedakar.com](https://selimfedakar.com)
